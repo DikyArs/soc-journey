@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Progress Harian/Hari-01.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hari-01"
+              "title": "README"
             }
           }
         ]
@@ -185,9 +185,11 @@
   },
   "active": "693fae4ccda33276",
   "lastOpenFiles": [
-    "README.md",
+    "00 - Progress Harian/Hari-02.md",
     "00 - Progress Harian/Hari-01.md",
+    "01 - Fondasi/Linux-Log-Analysis.md",
     "01 - Fondasi/SOC-Overview.md",
+    "README.md",
     "01 - Fondasi",
     "05 - Case Write-ups",
     "04 - Tools & Playbook",
