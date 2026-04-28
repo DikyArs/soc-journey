@@ -3,6 +3,7 @@
 ### Progress
 - [x] Hari 1 — Setup & SOC mindset
 - [x] Hari 2 — Linux log analysis
+- [x] Hari 3 — Windows Event Logs & Sysmon
 
 
 ### Tools SOC yang Sudah Dipelajari
